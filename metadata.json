@@ -1,0 +1,5 @@
+{
+  "name": "JFQ125 HMI",
+  "description": "钢卷自动分切机 JFQ125 的 HMI 界面，包含生产监控、订单池管理以及 Veo 动画生成功能。",
+  "requestFramePermissions": []
+}
